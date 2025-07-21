@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou o Carlos Eduardo!
 
-<!--
-**kADURICO/kADURICO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia SENAC RJ
 
-Here are some ideas to get you started:
+### Linguagens e Frameworks que eu utilizo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,python,angular,javascript,css,html,cs&theme=dark)](https://skillicons.dev)
+
+##
+
+### Redes para contato:
+<div> 
+  <a href = "mailto:caduribs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlos-eduardo-soares-990960328" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
